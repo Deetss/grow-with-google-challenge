@@ -1,5 +1,6 @@
 # Grow with Google Challenge
-These are the lessons for the Grow with Google Challenge. I will be updating the README periodically as I complete the lessons.
+These are the lessons for the Grow with Google Challenge. I will be updating the README periodically as I complete the lessons. I was a little 
+late to start but i have a good feeling i will catch up!
 
 
 | Lesson | Progress    | Date Completed |
