@@ -9,8 +9,8 @@ late to start but i have a good feeling i will catch up!
 | 02     | Completed   |        1/30/18 |
 | 03     | Completed   |        1/31/18 |
 | 04     | Completed   |        1/31/18 |
-| 05     | In Progress |        N/A     |
-| 06     | Not Started |        N/A     |
+| 05     | Completed   |        2/1/18  |
+| 06     | In Progress |        N/A     |
 | 07     | Not Started |        N/A     |
 | 08     | Not Started |        N/A     |
 | 09     | Not Started |        N/A     |
