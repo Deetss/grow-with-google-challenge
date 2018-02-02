@@ -10,11 +10,11 @@ late to start but i have a good feeling i will catch up!
 | 03     | Completed   |        1/31/18 |
 | 04     | Completed   |        1/31/18 |
 | 05     | Completed   |        2/1/18  |
-| 06     | In Progress |        N/A     |
-| 07     | Not Started |        N/A     |
-| 08     | Not Started |        N/A     |
-| 09     | Not Started |        N/A     |
-| 10     | Not Started |        N/A     |
+| 06     | Completed   |        2/2/18  |
+| 07     | Completed   |        2/2/18  |
+| 08     | Completed   |        2/2/18  |
+| 09     | Completed   |        2/2/18  |
+| 10     | In Progress |        N/A     |
 | 11     | Not Started |        N/A     |
 | 12     | Not Started |        N/A     |
 | 13     | Not Started |        N/A     |
