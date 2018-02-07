@@ -18,9 +18,9 @@ late to start but i have a good feeling i will catch up!
 | 11     | Completed   |        2/3/18  |
 | 12     | Completed   |        2/5/18  |
 | 13     | Completed   |        2/7/18  |
-| 14     | In Progress |        N/A     |
-| 15     | Not Started |        N/A     |
-| 16     | Not Started |        N/A     |
-| 17     | Not Started |        N/A     |
-| 18     | Not Started |        N/A     |
-| 19     | Not Started |        N/A     |
+| 14     | Completed   |        2/7/18  |
+| 15     | In Progress |        ---     |
+| 16     | Not Started |        ---     |
+| 17     | Not Started |        ---     |
+| 18     | Not Started |        ---     |
+| 19     | Not Started |        ---     |
