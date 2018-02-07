@@ -4,7 +4,7 @@ late to start but i have a good feeling i will catch up!
 
 
 | Lesson | Progress    | Date Completed |
-| -------|:-----------:| --------------:|
+| -------|:-----------:| :-------------:|
 | 01     | Completed   |        1/30/18 |
 | 02     | Completed   |        1/30/18 |
 | 03     | Completed   |        1/31/18 |
